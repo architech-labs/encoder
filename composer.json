@@ -1,0 +1,19 @@
+{
+    "name": "architech/encoder",
+    "description": "DI friendly wrappers for common encoders.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Architech\\Encoder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andy Fletcher"
+        }
+    ],
+    "require-dev": {
+        "architech/toolchain": "0.*"
+    }
+}
