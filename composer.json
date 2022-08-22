@@ -1,11 +1,11 @@
 {
-    "name": "architech/encoder",
+    "name": "leverage-php/encoder",
     "description": "DI friendly wrappers for common encoders.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Architech\\Encoder\\": "src/"
+            "Leverage\\Encoder\\": "src/"
         }
     },
     "authors": [
@@ -14,6 +14,6 @@
         }
     ],
     "require-dev": {
-        "architech/toolchain": "0.*"
+        "leverage-php/toolchain": "1.*"
     }
 }

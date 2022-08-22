@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Architech\Encoder;
+namespace Leverage\Encoder;
 
 use JsonException;
 use JsonSerializable;

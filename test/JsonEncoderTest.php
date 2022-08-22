@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use Architech\Encoder\JsonEncoder;
 use JsonSerializable;
+use Leverage\Encoder\JsonEncoder;
 use PHPUnit\Framework\TestCase;
 
 class JsonEncoderTest extends TestCase
