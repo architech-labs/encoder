@@ -13,7 +13,7 @@ class JsonEncoder
      * @throws JsonException
      */
     public function decode(
-        string $json,
+        string $json
     ): mixed {
         return json_decode(
             json: $json,
