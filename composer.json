@@ -14,6 +14,6 @@
         }
     ],
     "require-dev": {
-        "leverage-php/toolchain": "1.*"
+        "leverage-php/toolchain": "^1.4"
     }
 }
